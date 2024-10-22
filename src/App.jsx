@@ -1,12 +1,15 @@
 
 import './App.css'
+import Header from './header/header'
 
 function App() {
  
 
   return (
     <>
-      <h1>Hello!</h1>
+      <div className='div'>
+       <Header></Header>
+      </div>
     </>
   )
 }

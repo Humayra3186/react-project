@@ -1,0 +1,20 @@
+.logo{
+    color: rgb(224, 5, 118);
+    font-weight: 800;
+}
+.header{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.icon-container{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    color: rgb(224, 5, 118);
+    font-weight: 800;  
+    font-size: 1.3rem;
+}
